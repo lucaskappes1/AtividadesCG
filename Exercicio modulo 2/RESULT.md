@@ -1,0 +1,1 @@
+![Imagem do Resultado](screenshots/imagem.png)
