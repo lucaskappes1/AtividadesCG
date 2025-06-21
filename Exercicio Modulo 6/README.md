@@ -1,4 +1,4 @@
-# Tarefa Módulo 2
+# Tarefa Módulo 6
  
 ## instruções
  
@@ -23,11 +23,3 @@ D - mover a câmera para direita da direção que está olhando
 A - mover a câmera para esquerda na direção que está olhando
  
 E - adicionar waypoint de movimentação do objeto na posição atual da câmera
- 
-I - transladar objeto para frente no eixo y (ou mover para cima)
- 
-J - transladar objeto para trás no eixo y (ou mover para trás)
- 
-O - escalar objeto positivamente em todos os eixos (aumentar o tamanho)
- 
-L - escalar objeto negativamente em todos os eixos (diminuir o tamanho)
