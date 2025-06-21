@@ -22,4 +22,8 @@ D - mover a câmera para direita da direção que está olhando
  
 A - mover a câmera para esquerda na direção que está olhando
  
+ESPAÇO - mover a câmera para cima
+ 
+SHIFT ESQUERDO - mover a câmera para baixo
+ 
 E - adicionar waypoint de movimentação do objeto na posição atual da câmera

@@ -22,6 +22,10 @@ D - mover a câmera para direita da direção que está olhando
  
 A - mover a câmera para esquerda na direção que está olhando
  
+ESPAÇO - mover a câmera para cima
+ 
+SHIFT ESQUERDO - mover a câmera para trás
+ 
 I - transladar objeto para frente no eixo y (ou mover para cima)
  
 J - transladar objeto para trás no eixo y (ou mover para trás)
