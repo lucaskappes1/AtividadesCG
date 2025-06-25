@@ -26,8 +26,8 @@ private:
 	void processInput(struct GLFWwindow* window, class Camera* camera);
 	int actualWaypoint = 0;
 	size_t currentWaypoint = 0;
-	float t = 0.0f;           // Parâmetro de interpolação entre 0 e 1
-	float speed = 0.01f;       // Velocidade de interpolação (ajuste como quiser)
+	float t = 0.0f;          
+	float speed = 0.01f;       
 	bool addWaypointKeyPressed = false;
 
 
