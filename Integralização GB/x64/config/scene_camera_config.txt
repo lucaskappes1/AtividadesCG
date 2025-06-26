@@ -1,6 +1,0 @@
-position 0.0, 0.0, 10
-lookAt 0.0, 0.0, 0.0
-fov 45
-aspect 1.33
-near 0.1
-far 100
