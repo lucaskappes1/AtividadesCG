@@ -275,6 +275,22 @@ void key_callback(GLFWwindow* window, int key, int scancode, int action, int mod
 	{
 		objects[selectedObject].setScale(objects[selectedObject].getScale() + glm::vec3(-0.1f, -0.1f, -0.1f));
 	}
+
+	if( key == GLFW_KEY_T && action == GLFW_PRESS)
+	{
+		for (Light& l : lights)
+		{	
+			l.setLightIntensity(l.getLightIntensity() + glm::vec3(0.1f, 0.1f, 0.1f));
+		}
+	}
+
+	if (key == GLFW_KEY_G && action == GLFW_PRESS)
+	{
+		for (Light& l : lights)
+		{
+			l.setLightIntensity(l.getLightIntensity() - glm::vec3(0.1f, 0.1f, 0.1f));
+		}
+	}
 }
 
 void mouse_callback(GLFWwindow* window, double xpos, double ypos)
