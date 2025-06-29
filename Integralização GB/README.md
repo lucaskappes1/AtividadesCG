@@ -50,3 +50,11 @@ G - Diminuir intensidade de todas as luzes da cena
  
 < e > - trocar objeto selecionado
  
+## Assets
+ 
+Na cena temos 2 objetos que foram obtidos nos seguintes links:
+ 
+https://www.turbosquid.com/3d-models/old-wooden-chair-04-lowpoly-pbr-3d-2391747
+ 
+https://www.turbosquid.com/3d-models/fuel-can-lowpoly-pbr-model-2325509
+
